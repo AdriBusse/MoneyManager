@@ -19,6 +19,7 @@
     "express": "^4.17.1",
     "express-graphql": "^0.11.0",
     "graphql": "^15.3.0",
+    "graphql-iso-date": "^3.6.1",
     "momentum": "^4.0.0",
     "mongoose": "^5.10.6",
     "nodemon": "^2.0.4"
